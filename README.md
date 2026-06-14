@@ -164,13 +164,13 @@ Interactive Filters:
 
 ### 🏥 Hospital Management Dashboard
 
-![Hospital Management Dashboard](images/hospital_dashboard.png)
+![Hospital Management Dashboard](https://github.com/malipriyanka2211-cloud/Hospital-Management-Analytics-Dashboard-SQL-Power-BI/blob/main/Hospital%20management%20analysis%20dashboard.png)
 
 ---
 
 ### 👨‍⚕️ Patient Management Dashboard
 
-![Patient Management Dashboard](images/patient_dashboard.png)
+![Patient Management Dashboard](https://github.com/malipriyanka2211-cloud/Hospital-Management-Analytics-Dashboard-SQL-Power-BI/blob/main/Hospital%20management%20analysis%20dashboard.png)
 ## Author
 
 Priyanka Mali
