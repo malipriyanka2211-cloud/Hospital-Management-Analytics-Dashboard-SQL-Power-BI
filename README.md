@@ -160,7 +160,17 @@ Interactive Filters:
 - Healthcare Data Analytics
 
 ---
+## 📷 Dashboard Screenshots
 
+### 🏥 Hospital Management Dashboard
+
+![Hospital Management Dashboard](images/hospital_dashboard.png)
+
+---
+
+### 👨‍⚕️ Patient Management Dashboard
+
+![Patient Management Dashboard](images/patient_dashboard.png)
 ## Author
 
 Priyanka Mali
